@@ -44,13 +44,15 @@ The dashboard allows users to interact with the data using filters, slicers, cha
 | File | Description |
 |------|-------------|
 | `PowerBI Sale Project.pbix` | Complete Power BI dashboard containing all interconnected pages |
-| `Cleaned_Sales_Data.csv` | Cleaned dataset used for analysis |
+| `Cleaned_Sales_Data(1).csv` | Cleaned dataset used for analysis |
 
 ---
 
 ## 📊 Dashboard Pages
 
-### 1. Executive Sales Dashboard
+0.HOME PAGE 
+
+### 1. Business Overview Dashboard
 
 Provides a high-level overview of business performance.
 
@@ -91,7 +93,7 @@ Analyzes product-level sales performance.
 
 ---
 
-### 4. Customer Analysis
+### 4. Customer CLV Analysis
 
 Provides insights into customer purchasing behavior.
 
@@ -129,19 +131,6 @@ This section focuses on customer retention and identifying customers who may hav
 - Customer retention
 - Customer purchasing patterns
 - Potential retention opportunities
-
----
-
-### 7. Regional Sales Analysis
-
-Analyzes sales performance across different geographical regions.
-
-**Analysis includes:**
-- State-wise sales
-- Regional revenue
-- High-performing regions
-- Low-performing regions
-- Geographic sales distribution
 
 ---
 
